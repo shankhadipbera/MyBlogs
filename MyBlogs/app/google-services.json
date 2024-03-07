@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331210741421",
+    "project_id": "myblogs-2d100",
+    "storage_bucket": "myblogs-2d100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331210741421:android:42bd176b8a77f7ac36d824",
+        "android_client_info": {
+          "package_name": "com.shankha.myblogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJzJmVlWPX5GZZmy0eVL5t5IVppJV0Y5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
