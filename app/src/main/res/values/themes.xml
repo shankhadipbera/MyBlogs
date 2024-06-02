@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyBlogs" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#FA4A99</item>
+    </style>
+
+    <style name="Theme.MyBlogs" parent="Base.Theme.MyBlogs" />
+    <style name="round" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
